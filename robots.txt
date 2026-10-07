@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zerolagstudio.github.io/sitemap.xml
